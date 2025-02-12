@@ -50,3 +50,15 @@ button{
     left:500px;
     top:50px;
 }
+
+#battle{
+    text-align: center;
+    position:relative;
+    top:50px;
+    left: 000px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 1px;
+    font-size: 60px;
+    font-weight: bold;
+}
